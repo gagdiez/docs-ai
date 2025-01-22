@@ -1,0 +1,21 @@
+{
+  "category": "agent",
+  "description": "An agent that can answer questions using our documentation",
+  "tags": [
+    "docs",
+    "documentation"
+  ],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "llama-3p3-70b-instruct",
+        "model_max_tokens": 16384,
+        "model_provider": "fireworks",
+        "model_temperature": 1
+      }
+    }
+  },
+  "show_entry": true,
+  "name": "docs-ai",
+  "version": "1.0.0"
+}
