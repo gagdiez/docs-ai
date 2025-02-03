@@ -10,6 +10,8 @@ Removing all [full access keys](/tools/near-cli#delete-key) from an account will
 
 When an account is locked nobody can perform transactions in the account's name (e.g. update the code or transfer money).
 
+---
+
 #### How to Lock an Account
 <Tabs groupId="cli-tabs">
   <TabItem value="short" label="Short">

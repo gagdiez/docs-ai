@@ -32,8 +32,6 @@ def derive_url(paths: str, content: str) -> str:
     return f"https://docs.near.org/docs/{url_path}/{id}"
 
 def replace_github_with_code(content: str) -> str:
-    # Find all the <Github language="" url="" /> tags and replace them with the actual code
-    # <Github fname="keys.rs" language="rust" url="https://github.com/PiVortex/near-api-examples/tree/main/rust/examples/keys.rs#L43-L62" start="43" end="62" />
     githubs = re.findall(r"<Github\s[^>]*?/>", content)
     formatted = content
     for gh in githubs:

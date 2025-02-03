@@ -13,6 +13,8 @@ NEAR Protocol uses a version of **Proof-of-Stake**, particularly [Thresholded Pr
 
 In Proof-of-Stake, users show support to specific network validators by delegating NEAR tokens to them. This process is known as **staking**. The main idea is that, if a validator has a large amount of tokens delegated is because the community trusts them.
 
+---
+
 ### Securing the Network
 Validators have two main jobs. The first is to validate and execute transactions, aggregating them in the blocks that form the blockchain. Their second job is to oversee other validators, making sure no one produces an invalid block or creates an alternative chain (eg. with the goal of creating a double spend).
 

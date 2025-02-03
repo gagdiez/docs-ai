@@ -17,6 +17,7 @@ Recently we have [published a JavaScript version of the NEAR Lake Framework](htt
 
 We want to empower you with a basic tutorial on how to use the JavaScript Library. Let's get started!
 
+---
 
 ## Requirements
 

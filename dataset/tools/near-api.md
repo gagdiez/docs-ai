@@ -16,6 +16,7 @@ The NEAR API is a set of libraries that allow you to interact with the NEAR bloc
 - Send Tokens such as NEAR, FTs, and NFTs
 - Create, Add and Delete Account Keys
 - Deploy a contract
+- Delete a NEAR account
 
 Our API is available in multiple languages, including:
 - JavaScript: [`near-api-js`](https://github.com/near/near-api-js)

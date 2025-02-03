@@ -4,13 +4,14 @@ title: What are Chain Signatures?
 sidebar_label: What are Chain Signatures?
 ---
 
-
 Chain signatures enable NEAR accounts, including smart contracts, to sign and execute transactions across many blockchain protocols.
 
 This unlocks the next level of blockchain interoperability by giving ownership of diverse assets, cross-chain accounts, and data to every single NEAR account.
 
 ![chain-signatures](/docs/assets/welcome-pages/chain-signatures-overview.png)
 _Diagram of a chain signature in NEAR_
+
+---
 
 ## Benefits
 

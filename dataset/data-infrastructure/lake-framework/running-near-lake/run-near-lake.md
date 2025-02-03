@@ -12,6 +12,8 @@ to watch the network and store all the events as JSON files on AWS S3.
 
 :::
 
+---
+
 ## How to start
 
 The Lake Indexer setup consists of the following components:

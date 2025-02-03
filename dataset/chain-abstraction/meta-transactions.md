@@ -15,6 +15,8 @@ If you're already acquainted with the technology and you just want to run your o
 
 :::
 
+---
+
 ## How it works
 
 A basic relayer consists of a web server housing a funded NEAR account. This account receives an encoded signed transaction, which can subsequently be decoded into a `SignedDelegate` format and transmitted on-chain.

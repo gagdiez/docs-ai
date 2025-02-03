@@ -16,6 +16,7 @@ Recently we have [published a Python version of the NEAR Lake Framework](https:/
 
 We want to empower you with a basic tutorial on how to use the Python Package. Let's get started!
 
+---
 
 ## Create a project
 

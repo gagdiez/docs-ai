@@ -10,6 +10,8 @@ import {ExplainCode, Block, File} from '@site/src/components/CodeExplainer/code-
 
 Let's illustrate the basic anatomy of a simple "Hello World" contract. The code on this page comes from our [Hello NEAR repository](https://github.com/near-examples/hello-near-examples) on GitHub.
 
+---
+
 <ExplainCode languages="js,rust" >
 
 <Block highlights='{"js": "1", "rust": "1"}' fname="hello-near">

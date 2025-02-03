@@ -22,6 +22,8 @@ We've [posted the diffs for the reference in the end](#diffs) of the article, yo
 
 :::
 
+---
+
 ## Changing the dependencies
 
 First of all we'll start from the dependencies in `Cargo.toml`

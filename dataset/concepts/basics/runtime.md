@@ -5,6 +5,8 @@ title: Runtime
 
 This section contains videos that explore the core Runtime, its operation, and how it implements cross-contract calls.
 
+---
+
 ## Runtime Overview
 
 An in-depth code overview of NEAR Runtime.

@@ -8,6 +8,8 @@ Indexers are services that are constantly listening to the blockchain, processin
 
 Indexers are used by apps that need to access blockchain data efficiently, such as wallets and explorers.
 
+---
+
 - [BigQuery](../2.build/6.data-infrastructure/big-query.md): Blockchain data indexing in NEAR Public Lakehouse is for anyone wanting to understand blockchain data.
 
 - [NEAR Lake Framework](../2.build/6.data-infrastructure/lake-framework/near-lake.md): a companion library to NEAR Lake. It allows you to build your own indexer that watches a stream of blocks **from a NEAR Lake data source** and allows you to **create your own logic to process that data**. Keep in mind this is **the one you want to use for future projects**, instead of the Indexer Framework. Read [why it is better](https://docs.near.org/concepts/advanced/near-indexer-framework#why-is-it-better-than-near-indexer-framework).

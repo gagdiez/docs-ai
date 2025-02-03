@@ -11,5 +11,6 @@ While developing your smart contract you will want to test that it works as it i
 We recommend all developers to implement both types of tests, since each is suitable to detect different types of errors and make your code intentional. Furthermore, we strongly recommend to first release all projects on testnet, and give users time to try them before releasing them on mainnet.
 
 ---
+
 ## Setting Up Testing
 Testing a smart contract involves using different pieces of software depending on which type of test you are performing. In order to save you from the trouble of setting them up, we recommend you copy the structure from one of our [example projects](https://github.com/near-examples).

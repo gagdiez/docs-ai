@@ -12,6 +12,8 @@ You can find the Lake Indexer source code in [this GitHub repository](https://gi
 
 :::
 
+---
+
 ### How it works
 
 :::tip

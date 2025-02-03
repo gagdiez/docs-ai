@@ -16,6 +16,8 @@ Benefits:
 - **Cost-effective**: eliminate the need to store and process bulk NEAR protocol data; query as little or as much data as preferred.
 - **Easy to use**: no prior experience with blockchain technology is required; bring a general knowledge of SQL to unlock insights.
 
+---
+
 ## Getting started
 
 1. Login into your [Google Cloud Account](https://console.cloud.google.com/).

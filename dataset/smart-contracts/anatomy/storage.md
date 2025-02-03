@@ -13,6 +13,8 @@ Smart contracts store data in their account's state, which is public on the chai
 
 It is important to know that the account's **code** and account's **storage** are **independent**. [Updating the code](../release/upgrade.md) does **not erase** the state.
 
+---
+
 <hr class="subsection" />
 
 <ExplainCode languages="js,rust" >

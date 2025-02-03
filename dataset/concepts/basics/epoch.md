@@ -14,6 +14,8 @@ An **epoch** is a unit of time when validators of the network remain constant. I
 
 **Note:** Nodes garbage collect blocks after 5 epochs (~2.5 days) unless they are [archival nodes](https://near-nodes.io/intro/node-types#archival-node).
 
+---
+
 **Example:**
 
 <Tabs>

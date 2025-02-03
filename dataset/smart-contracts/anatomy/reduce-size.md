@@ -1,12 +1,8 @@
 ---
 id: reduce-size
-title: "Reducing Contract Size"
+title: Reducing Contract Size
 ---
 import {Github} from "@site/src/components/codetabs"
-
-# Reducing a contract's size
-
-## Advice & examples
 
 This page is made for developers familiar with lower-level concepts who wish to reduce their contract size significantly, perhaps at the expense of code readability.
 
@@ -17,6 +13,8 @@ Some common scenarios where this approach may be helpful:
 - future advancements similar to the EVM on NEAR
 
 There have been a few items that may add unwanted bytes to a contract's size when compiled. Some of these may be more easily swapped for other approaches while others require more internal knowledge about system calls.
+
+---
 
 ## Small wins
 

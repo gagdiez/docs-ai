@@ -12,6 +12,8 @@ id: nft-indexer
 
 :::
 
+---
+
 ## The End
 
 This tutorial ends with a working NFT indexer built on top [NEAR Lake Framework JS](/concepts/advanced/near-lake-framework). The indexer is watching for `nft_mint` [Events](https://nomicon.io/Standards/EventsFormat) and prints some relevant data:

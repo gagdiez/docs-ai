@@ -8,6 +8,7 @@ import TabItem from '@theme/TabItem';
 The NEAR [Command Line Interface](https://github.com/near/near-cli-rs) (CLI) is a tool that enables to interact with the NEAR network directly from the shell. Among other things, the NEAR CLI enables you to:
 
 - Create a new NEAR account
+- Delete an existing NEAR account
 - Query information about an account
 - Send Tokens such as NEAR, FTs, and NFTs
 - Create, Add and Delete Account Keys
