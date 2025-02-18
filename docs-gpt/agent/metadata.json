@@ -1,7 +1,7 @@
 {
   "name": "docs-gpt",
-  "version": "1.0.0",
-  "description": "An agent that knows how to interact with NEAR",
+  "version": "1.1.1",
+  "description": "An agent that answers questions about NEAR using a Vector Store",
   "category": "agent",
   "tags": ["docs", "vector-store"],
   "details": {
